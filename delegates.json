@@ -1,34 +1,124 @@
 {
   "delegates": [
-    "Chipoli",
-    "Ebonhand",
-    "Kethania",
-    "Imperium Anglorum",
-    "Varanius",
-    "American-Cascadia",
-    "Marinas Island",
-    "UPC",
-    "Dragonian Kazaman",
-    "Rhaza",
-    "Toerana",
-    "Treadwellia",
-    "Mechanocracy",
-    "Kavagrad",
-    "Ajakor",
-    "The United Royal Islands of Euramathania",
-    "Arkadia Universalis",
-    "Rayekka",
-    "Gagium",
-    "Pauline Bonaparte",
-    "Typica",
-    "Karma Pirate",
-    "Moukden and Kirin",
-    "Vintrel",
-    "Loveable Dogs",
-    "Student Loan Debt",
-    "Walkabout",
-    "The Byrdlands",
-    "Verdant Haven",
-    "Mania Sims"
+    {
+      "name": "Chipoli",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Ebonhand",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Kethania",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Imperium Anglorum",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Varanius",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "American-Cascadia",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Marinas Island",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "UPC",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Dragonian Kazaman",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Rhaza",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Toerana",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Treadwellia",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Mechanocracy",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Kavagrad",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Ajakor",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "The United Royal Islands of Euramathania",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Arkadia Universalis",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Rayekka",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Gagium",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Pauline Bonaparte",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Typica",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Karma Pirate",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Moukden and Kirin",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Vintrel",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Loveable Dogs",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Student Loan Debt",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Walkabout",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "The Byrdlands",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Verdant Haven",
+      "nation_id": "unknown"
+    },
+    {
+      "name": "Mania Sims",
+      "nation_id": "unknown"
+    }
   ]
 }
