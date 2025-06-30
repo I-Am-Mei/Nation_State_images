@@ -2,123 +2,123 @@
   "delegates": [
     {
       "name": "Chipoli",
-      "nation_id": "unknown"
+      "nation_id": "chipoli"
     },
     {
       "name": "Ebonhand",
-      "nation_id": "unknown"
+      "nation_id": "ebonhand"
     },
     {
       "name": "Kethania",
-      "nation_id": "unknown"
+      "nation_id": "kethania"
     },
     {
       "name": "Imperium Anglorum",
-      "nation_id": "unknown"
+      "nation_id": "imperium_anglorum"
     },
     {
       "name": "Varanius",
-      "nation_id": "unknown"
+      "nation_id": "varanius"
     },
     {
       "name": "American-Cascadia",
-      "nation_id": "unknown"
+      "nation_id": "american-cascadia"
     },
     {
       "name": "Marinas Island",
-      "nation_id": "unknown"
+      "nation_id": "marinas_island"
     },
     {
       "name": "UPC",
-      "nation_id": "unknown"
+      "nation_id": "upc"
     },
     {
       "name": "Dragonian Kazaman",
-      "nation_id": "unknown"
+      "nation_id": "dragonian_kazaman"
     },
     {
       "name": "Rhaza",
-      "nation_id": "unknown"
+      "nation_id": "rhaza"
     },
     {
       "name": "Toerana",
-      "nation_id": "unknown"
+      "nation_id": "toerana"
     },
     {
       "name": "Treadwellia",
-      "nation_id": "unknown"
+      "nation_id": "treadwellia"
     },
     {
       "name": "Mechanocracy",
-      "nation_id": "unknown"
+      "nation_id": "mechanocracy"
     },
     {
       "name": "Kavagrad",
-      "nation_id": "unknown"
+      "nation_id": "kavagrad"
     },
     {
       "name": "Ajakor",
-      "nation_id": "unknown"
+      "nation_id": "ajakor"
     },
     {
       "name": "The United Royal Islands of Euramathania",
-      "nation_id": "unknown"
+      "nation_id": "the_united_royal_islands_of_euramathania"
     },
     {
       "name": "Arkadia Universalis",
-      "nation_id": "unknown"
+      "nation_id": "arkadia_universalis"
     },
     {
       "name": "Rayekka",
-      "nation_id": "unknown"
+      "nation_id": "rayekka"
     },
     {
       "name": "Gagium",
-      "nation_id": "unknown"
+      "nation_id": "gagium"
     },
     {
       "name": "Pauline Bonaparte",
-      "nation_id": "unknown"
+      "nation_id": "pauline_bonaparte"
     },
     {
       "name": "Typica",
-      "nation_id": "unknown"
+      "nation_id": "typica"
     },
     {
       "name": "Karma Pirate",
-      "nation_id": "unknown"
+      "nation_id": "karma_pirate"
     },
     {
       "name": "Moukden and Kirin",
-      "nation_id": "unknown"
+      "nation_id": "moukden_and_kirin"
     },
     {
       "name": "Vintrel",
-      "nation_id": "unknown"
+      "nation_id": "vintrel"
     },
     {
       "name": "Loveable Dogs",
-      "nation_id": "unknown"
+      "nation_id": "loveable_dogs"
     },
     {
       "name": "Student Loan Debt",
-      "nation_id": "unknown"
+      "nation_id": "student_loan_debt"
     },
     {
       "name": "Walkabout",
-      "nation_id": "unknown"
+      "nation_id": "walkabout"
     },
     {
       "name": "The Byrdlands",
-      "nation_id": "unknown"
+      "nation_id": "the_byrdlands"
     },
     {
       "name": "Verdant Haven",
-      "nation_id": "unknown"
+      "nation_id": "verdant_haven"
     },
     {
       "name": "Mania Sims",
-      "nation_id": "unknown"
+      "nation_id": "mania_sims"
     }
   ]
 }
