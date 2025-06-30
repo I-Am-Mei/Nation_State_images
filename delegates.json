@@ -1,184 +1,34 @@
 {
   "delegates": [
-    {
-      "rank": "Rank",
-      "region": null,
-      "nation": null,
-      "value": "Votes"
-    },
-    {
-      "rank": "1",
-      "region": "The North Pacific",
-      "nation": "Chipoli",
-      "value": "692"
-    },
-    {
-      "rank": "2",
-      "region": "the South Pacific",
-      "nation": "Ebonhand",
-      "value": "568"
-    },
-    {
-      "rank": "3",
-      "region": "The Communist Bloc",
-      "nation": "Kethania",
-      "value": "520"
-    },
-    {
-      "rank": "4",
-      "region": "Europe",
-      "nation": "Imperium Anglorum",
-      "value": "517"
-    },
-    {
-      "rank": "5",
-      "region": "the West Pacific",
-      "nation": "Varanius",
-      "value": "423"
-    },
-    {
-      "rank": "6",
-      "region": "The East Pacific",
-      "nation": "American-Cascadia",
-      "value": "414"
-    },
-    {
-      "rank": "7",
-      "region": "the Pacific",
-      "nation": "Marinas Island",
-      "value": "413"
-    },
-    {
-      "rank": "8",
-      "region": "Europeia",
-      "nation": "UPC",
-      "value": "310"
-    },
-    {
-      "rank": "9",
-      "region": "Balder",
-      "nation": "Dragonian Kazaman",
-      "value": "247"
-    },
-    {
-      "rank": "10",
-      "region": "the Plains of Perdition",
-      "nation": "Rhaza",
-      "value": "237"
-    },
-    {
-      "rank": "11",
-      "region": "the Rejected Realms",
-      "nation": "Toerana",
-      "value": "221"
-    },
-    {
-      "rank": "12",
-      "region": "Lazarus",
-      "nation": "Treadwellia",
-      "value": "221"
-    },
-    {
-      "rank": "13",
-      "region": "Concord",
-      "nation": "Mechanocracy",
-      "value": "209"
-    },
-    {
-      "rank": "14",
-      "region": "The Leftist Assembly",
-      "nation": "Kavagrad",
-      "value": "203"
-    },
-    {
-      "rank": "15",
-      "region": "Christians",
-      "nation": "Ajakor",
-      "value": "197"
-    },
-    {
-      "rank": "16",
-      "region": "10000 Islands",
-      "nation": "The United Royal Islands of Euramathania",
-      "value": "195"
-    },
-    {
-      "rank": "17",
-      "region": "Osiris",
-      "nation": "Arkadia Universalis",
-      "value": "195"
-    },
-    {
-      "rank": "18",
-      "region": "Thaecia",
-      "nation": "Rayekka",
-      "value": "174"
-    },
-    {
-      "rank": "19",
-      "region": "The League",
-      "nation": "Gagium",
-      "value": "173"
-    },
-    {
-      "rank": "20",
-      "region": "Carcassonne",
-      "nation": "Pauline Bonaparte",
-      "value": "130"
-    },
-    {
-      "rank": "21",
-      "region": "Refugia",
-      "nation": "Typica",
-      "value": "125"
-    },
-    {
-      "rank": "22",
-      "region": "Karma",
-      "nation": "Karma Pirate",
-      "value": "122"
-    },
-    {
-      "rank": "23",
-      "region": "Talonia",
-      "nation": "Moukden and Kirin",
-      "value": "112"
-    },
-    {
-      "rank": "24",
-      "region": "Starlight",
-      "nation": "Vintrel",
-      "value": "107"
-    },
-    {
-      "rank": "25",
-      "region": "Conch Kingdom",
-      "nation": "Loveable Dogs",
-      "value": "89"
-    },
-    {
-      "rank": "26",
-      "region": "Democratic Socialist Assembly",
-      "nation": "Student Loan Debt",
-      "value": "83"
-    },
-    {
-      "rank": "27",
-      "region": "the Outback",
-      "nation": "Walkabout",
-      "value": "82"
-    },
-    {
-      "rank": "28",
-      "region": "Ridgefield",
-      "nation": "The Byrdlands",
-      "value": "78"
-    },
-    {
-      "rank": "29",
-      "region": "Forest",
-      "nation": "Verdant Haven",
-      "value": "73"
-    }
+    "Chipoli",
+    "Ebonhand",
+    "Kethania",
+    "Imperium Anglorum",
+    "Varanius",
+    "American-Cascadia",
+    "Marinas Island",
+    "UPC",
+    "Dragonian Kazaman",
+    "Rhaza",
+    "Toerana",
+    "Treadwellia",
+    "Mechanocracy",
+    "Kavagrad",
+    "Ajakor",
+    "The United Royal Islands of Euramathania",
+    "Arkadia Universalis",
+    "Rayekka",
+    "Gagium",
+    "Pauline Bonaparte",
+    "Typica",
+    "Karma Pirate",
+    "Moukden and Kirin",
+    "Vintrel",
+    "Loveable Dogs",
+    "Student Loan Debt",
+    "Walkabout",
+    "The Byrdlands",
+    "Verdant Haven",
+    "Mania Sims"
   ]
 }
